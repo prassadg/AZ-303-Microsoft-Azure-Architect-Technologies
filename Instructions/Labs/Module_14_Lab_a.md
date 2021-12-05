@@ -125,6 +125,7 @@ None
 1. From the Cloud Shell pane, run the following to set the git remote alias representing the Git-enabled Azure App Service web app:
 
    ```sh
+   git init
    git remote add azure $URL
    ```
 
